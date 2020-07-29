@@ -17,10 +17,9 @@ An 88-keys piano keyboard has the keys (in order) :
 <code>C5, C5#, D5, D5#, E5, F5, F5#, G5, G5#, A5, A5#, B5, </code><br>
 <code>C6, C6#, D6, D6#, E6, F6, F6#, G6, G6#, A6, A6#, B6, </code><br>
 <code>C7, C7#, D7, D7#, E7, F7, F7#, G7, G7#, A7, A7#, B7, </code><br>
- <code> C8</code>
-  <br></center>
-
+<code> C8</code><br>
+<br></center>
 where A0 and C8 are the lowest and highest pitches possible respectively.
-You can hear the notes of such a piano at https://pianu.com/ (Click on "Full Piano" and click the keys).
+You can hear the notes of such a piano at https://pianu.com/ (Click on "Full Piano" and click the keys).<br>
 <img src="https://res.cloudinary.com/ritikadas/image/upload/v1596050238/My_Images/Arduino_Notes_bn7u8t.png" align="center">
-Piezoelectric buzzers or simply piezo buzzers are used mainly in alarm circuits to serve as a beeping or security alerting device mechanism. You can generally find them at any electronics shop at a price range from ₹20 to ₹70, i.e. 0.27$ to 0.94$. It is tiny (~ 1.2 cm), available in voltage ratings from 3.3V to 12V (5V is most common), and can produce frequencies from about 31 Hz to 65535 Hz. Good for the "20 Hz to 20000 Hz" hearing beings, we aren't missing out much on frequencies!
+<br>Piezoelectric buzzers or simply piezo buzzers are used mainly in alarm circuits to serve as a beeping or security alerting device mechanism. You can generally find them at any electronics shop at a price range from ₹20 to ₹70, i.e. 0.27$ to 0.94$. It is tiny (~ 1.2 cm), available in voltage ratings from 3.3V to 12V (5V is most common), and can produce frequencies from about 31 Hz to 65535 Hz. Good for the "20 Hz to 20000 Hz" hearing beings, we aren't missing out much on frequencies!
