@@ -9,7 +9,7 @@ We will be referring to piano notes only (for clarity). You are free to choose a
 
 An 88-keys piano keyboard has the keys (in order) :
 
-<center>A0, A0#, B0,</code> <br>
+<center><code>A0, A0#, B0, </code><br>
 <code>C1, C1#, D1, D1#, E1, F1, F1#, G1, G1#, A1, A1#, B1, </code><br>
 <code>C2, C2#, D2, D2#, E2, F2, F2#, G2, G2#, A2, A2#, B2, </code><br>
 <code>C3, C3#, D3, D3#, E3, F3, F3#, G3, G3#, A3, A3#, B3, </code><br>
