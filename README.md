@@ -23,7 +23,7 @@ where A0 and C8 are the lowest and highest pitches possible respectively.
 You can hear the notes of such a piano at https://pianu.com/ (Click on "Full Piano" and click the keys).<br><br>
 <br><img src="https://res.cloudinary.com/ritikadas/image/upload/v1596050238/My_Images/Arduino_Notes_bn7u8t.png" align="center">
 <br>Piezoelectric buzzers or simply piezo buzzers are used mainly in alarm circuits to serve as a beeping or security alerting device mechanism. You can generally find them at any electronics shop at a price range from ₹20 to ₹70, i.e. 0.27$ to 0.94$. It is tiny (~ 1.2 cm), available in voltage ratings from 3.3V to 12V (5V is most common), and can produce frequencies from about 31 Hz to 65535 Hz. Good for the "20 Hz to 20000 Hz" hearing beings, we aren't missing out much on frequencies!
-<H3>Components Required :</H3><br>
+<H3>Components Required :</H3>
 - 1 Arduino Uno R3 (a microcontroller board based on the ATmega328P)<br>
 - 1 Piezoelectric Buzzer (preferably 5V rated to be compatible with your Arduino Uno R3)<br>
 - 1 kΩ resistor (to reduce noise)<br>
@@ -33,7 +33,8 @@ Alternatively, if you want to use a breadboard (highly recommended), your list w
 - 1 Piezoelectric Buzzer (preferably 5V rated to be compatible with your Arduino Uno R3)<br>
 - 1 kΩ resistor (to reduce noise)<br>
 - 1 Mini Breadboard<br>
-- 2 Jumper Wires (1 Male-to-Male for Arduino pin to buzzer leg's line on breadboard, 1 Male-to-Male for Arduino pin to resistor's line on breadboard)<br>
+- 2 Jumper Wires (1 Male-to-Male for Arduino pin to buzzer leg's line on breadboard, 1 Male-to-Male for Arduino pin to resistor's line on breadboard)<br><br>
+
 ## Getting Started
 
 ## Almost There!
