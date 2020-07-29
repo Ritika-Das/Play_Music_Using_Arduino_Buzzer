@@ -4,12 +4,12 @@ Welcome dear reader!
 
 This will guide you on how to play musical notes of any song on a piezoelectric buzzer, using Arduino Uno R3, a resistor and some connecting wires.
 This project can be attempted by complete beginners of Arduino as well as others, so jump into the details!
-## Overview
+## Overview and Prerequisites
 We will be referring to piano notes only (for clarity). You are free to choose any instrument that you are comfortable with, examples - flute, saxophone, guitar, harmonium etc.
 
 An 88-keys piano keyboard has the keys (in order) :
 
-<center><code>A0, A0#, B0, <br>
+<center>A0, A0#, B0, <br>
 C1, C1#, D1, D1#, E1, F1, F1#, G1, G1#, A1, A1#, B1, <br>
 C2, C2#, D2, D2#, E2, F2, F2#, G2, G2#, A2, A2#, B2, <br>
 C3, C3#, D3, D3#, E3, F3, F3#, G3, G3#, A3, A3#, B3, <br>
@@ -17,7 +17,7 @@ C4, C4#, D4, D4#, E4, F4, F4#, G4, G4#, A4, A4#, B4, <br>
 C5, C5#, D5, D5#, E5, F5, F5#, G5, G5#, A5, A5#, B5, <br>
 C6, C6#, D6, D6#, E6, F6, F6#, G6, G6#, A6, A6#, B6, <br>
 C7, C7#, D7, D7#, E7, F7, F7#, G7, G7#, A7, A7#, B7, <br>
-  C8<br></code></center>
+  C8<br></center>
 
 where A0 and C8 are the lowest and highest pitches possible respectively.
 You can hear the notes of such a piano at https://pianu.com/ (Click on "Full Piano" and click the keys).
