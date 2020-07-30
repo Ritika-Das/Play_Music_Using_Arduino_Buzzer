@@ -40,6 +40,7 @@ Alternatively, if you want to use a breadboard (highly recommended), your list w
 • 1 Mini Breadboard<br>
 • 2 Jumper Wires (1 Male-to-Male for Arduino pin to buzzer leg's line on breadboard, 1 Male-to-Male for Arduino pin to resistor's line on breadboard)<br><br>
 
+## Applications/Software Required
 ## Getting Started
 
 ## Almost There!
