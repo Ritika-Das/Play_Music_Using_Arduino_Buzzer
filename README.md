@@ -26,7 +26,7 @@ You can hear the notes of such a piano at https://pianu.com/ (Click on "Full Pia
 <H3>Components Required :</H3>
 
 • 1 Arduino Uno R3 (a microcontroller board based on the ATmega328P)<br>
-• Arduino Software (open-source IDE) from https://www.arduino.cc/en/Main/Software (Installed Software or Web Editor)
+• Arduino Software (open-source IDE) from https://www.arduino.cc/en/Main/Software (Installed Software or Web Editor)<br>
 • 1 Piezoelectric Buzzer (preferably 5V rated to be compatible with your Arduino Uno R3)<br>
 • 1 kΩ resistor (to reduce noise)<br>
 • 3 Jumper Wires (1 Male-to-Female for Arduino pin to buzzer leg, 1 Female-to-Female for resistor to buzzer leg, 1 Male-to-Female for Arduino pin to resistor)<br>
@@ -34,7 +34,7 @@ You can hear the notes of such a piano at https://pianu.com/ (Click on "Full Pia
 Alternatively, if you want to use a breadboard (highly recommended), your list would be :<br>
 
 • 1 Arduino Uno R3 (a microcontroller board based on the ATmega328P)<br>
-• Arduino Software (open-source IDE) from https://www.arduino.cc/en/Main/Software (Installed Software or Web Editor)
+• Arduino Software (open-source IDE) from https://www.arduino.cc/en/Main/Software (Installed Software or Web Editor)<br>
 • 1 Piezoelectric Buzzer (preferably 5V rated to be compatible with your Arduino Uno R3)<br>
 • 1 kΩ resistor (to reduce noise)<br>
 • 1 Mini Breadboard<br>
