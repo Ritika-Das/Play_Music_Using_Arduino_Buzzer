@@ -52,11 +52,13 @@ Chances are that you might have come across a project online where the creator i
 ### Getting The Notes Right - Sampling
 <img src="https://res.cloudinary.com/ritikadas/image/upload/v1596311660/My_Images/ezgif-6-806bb3d9aa80_ylpgpn.gif" align="left" height="200px">First, you want to make up your mind about the song you are planning to make Arduino "sing" for you. As it's your first time, settle on choosing one which has fairly less melodies, but which you really love. Hints - Jingle Bells, Hallelujah, Fur Elise or even Despacito. Something which has tunes really stuck in your head.
 Now you need to get down to the musical notes which will give shape to your code. You can do so using the Note Recognizer App (assuming you might have trouble figuring out musical notes instantly). You just need to hum into the microphone piece of your phone or hands-free and voilà! It tells you what each note is called, and you are ready to hold the humming notes for a while and jot the names down. Even a sneeze or a snore has a note, so don't worry. You'll also see a decimal number being displayed upwards along with your note name; it's not needed right now, so we'll visit that later.
-
+To see the GIF clearly, you may <a href="https://camo.githubusercontent.com/59081a946e7ea2d2b16c2b9cd268fe638f4c062c/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f726974696b616461732f696d6167652f75706c6f61642f76313539363331313636302f4d795f496d616765732f657a6769662d362d3830366262336439616138305f796c7067706e2e676966">click here</a>.
 
 
 ### Getting The Note Durations Right - 
 <img src="https://res.cloudinary.com/ritikadas/image/upload/v1596314104/My_Images/ezgif-6-2042206637bd_fiyjcy.gif" align="left" height="200px">Some notes last longer, some notes last shorter. THIS is the slightly tricky part. Let me give you an example. In the song Despacito, you might notice that the parts DES and PA are longer than the fast CI and TO parts. On average, if you sing it out, DES took 0.27 seconds (270 milliseconds), PA also took 0.27 seconds (270 milliseconds), CI took 0.19 seconds (190 milliseconds) and TO also took 0.19 seconds (190 milliseconds). How did I time these? Using the Stopwatch feature in my phone. You know how the song goes, you have jotted down the notes too; now time each note out and jot down the milliseconds (if you notice a 0M00S.00 format, you'll get something in 0.XY seconds, now multiply that by 1000, there you have your XY0 milliseconds!). We'll be needing all these data in the next section.<br>
+To see the GIF clearly, you may <a href="https://camo.githubusercontent.com/42de300b300cee329d1708f3717c2b5d5a825f88/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f726974696b616461732f696d6167652f75706c6f61642f76313539363331343130342f4d795f496d616765732f657a6769662d362d3230343232303636333762645f6669796a63792e676966">click here</a>.
+
 
 ## Almost There!
 
