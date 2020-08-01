@@ -40,7 +40,29 @@ Alternatively, if you want to use a breadboard (highly recommended), your list w
 • 1 Mini Breadboard<br>
 • 2 Jumper Wires (1 Male-to-Male for Arduino pin to buzzer leg's line on breadboard, 1 Male-to-Male for Arduino pin to resistor's line on breadboard)<br><br>
 
-## Applications/Software Required
+## Extra Applications/Features (Recommended)
+
+• Note Recognizer (Android App) from https://play.google.com/store/apps/details?id=nl.robertloeberdevelopment&hl=en_IN
+• Stopwatch feature (Available in the Clock App for most phones) 
+
 ## Getting Started
 
+Chances are that you might have come across a project online where the creator is playing music using an Arduino, and brownie points for you if you have even come across the actual code that went into it. Let me debunk it for you here.
+
+### Getting The Notes Right - Sampling
+First, you want to make up your mind about the song you are planning to make Arduino "sing" for you. As it's your first time, settle on choosing one which has fairly less melodies, but which you really love. Hints - Jingle Bells, Hallelujah, Fur Elise or even Despacito. Something which has tunes really stuck in your head.
+Now you need to get down to the musical notes which will give shape to your code. You can do so using the Note Recognizer App (assuming you might have trouble figuring out musical notes instantly). You just need to hum into the microphone piece of your phone or hands-free and voilà! It tells you what each note is called, and you are ready to hold the humming notes for a while and jot the names down. Even a sneeze or a snore has a note, so don't worry. You'll also see a decimal number being displayed upwards along with your note name; it's not needed right now, so we'll visit that later.
+
+<img src="https://res.cloudinary.com/ritikadas/image/upload/v1596311660/My_Images/ezgif-6-806bb3d9aa80_ylpgpn.gif" align="center">
+
+### Getting The Note Durations Right - 
+
+**Some notes last longer, some notes last shorter.** THIS is the slightly tricky part. Let me give you an example. In the song Despacito, you might notice that the parts DES and PA are longer than the fast CI and TO parts. On average, if you sing it out, DES took 0.27 seconds (270 milliseconds), PA also took 0.27 seconds (270 milliseconds), CI took 0.19 seconds (190 milliseconds) and TO also took 0.19 seconds (190 milliseconds). How did I time these? Using the Stopwatch feature in my phone. You know how the song goes, you have jotted down the notes too; now time each note out and jot down the milliseconds (if you notice a 0M00S.00 format, you'll get something in 0.XY seconds, now multiply that by 1000, there you have your milliseconds!).
+
+<img src="https://res.cloudinary.com/ritikadas/image/upload/v1596314104/My_Images/ezgif-6-2042206637bd_fiyjcy.gif" align="center">
+
 ## Almost There!
+
+
+
+## Takeaways and Possible Quagmire
