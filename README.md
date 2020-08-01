@@ -53,13 +53,13 @@ Chances are that you might have come across a project online where the creator i
 First, you want to make up your mind about the song you are planning to make Arduino "sing" for you. As it's your first time, settle on choosing one which has fairly less melodies, but which you really love. Hints - Jingle Bells, Hallelujah, Fur Elise or even Despacito. Something which has tunes really stuck in your head.
 Now you need to get down to the musical notes which will give shape to your code. You can do so using the Note Recognizer App (assuming you might have trouble figuring out musical notes instantly). You just need to hum into the microphone piece of your phone or hands-free and voilà! It tells you what each note is called, and you are ready to hold the humming notes for a while and jot the names down. Even a sneeze or a snore has a note, so don't worry. You'll also see a decimal number being displayed upwards along with your note name; it's not needed right now, so we'll visit that later.
 
-<img src="https://res.cloudinary.com/ritikadas/image/upload/v1596311660/My_Images/ezgif-6-806bb3d9aa80_ylpgpn.gif" align="center">
+<img src="https://res.cloudinary.com/ritikadas/image/upload/v1596311660/My_Images/ezgif-6-806bb3d9aa80_ylpgpn.gif" align="center" height="200px">
 
 ### Getting The Note Durations Right - 
 
-**Some notes last longer, some notes last shorter.** THIS is the slightly tricky part. Let me give you an example. In the song Despacito, you might notice that the parts DES and PA are longer than the fast CI and TO parts. On average, if you sing it out, DES took 0.27 seconds (270 milliseconds), PA also took 0.27 seconds (270 milliseconds), CI took 0.19 seconds (190 milliseconds) and TO also took 0.19 seconds (190 milliseconds). How did I time these? Using the Stopwatch feature in my phone. You know how the song goes, you have jotted down the notes too; now time each note out and jot down the milliseconds (if you notice a 0M00S.00 format, you'll get something in 0.XY seconds, now multiply that by 1000, there you have your milliseconds!).
+**Some notes last longer, some notes last shorter.** THIS is the slightly tricky part. Let me give you an example. In the song Despacito, you might notice that the parts DES and PA are longer than the fast CI and TO parts. On average, if you sing it out, DES took 0.27 seconds (270 milliseconds), PA also took 0.27 seconds (270 milliseconds), CI took 0.19 seconds (190 milliseconds) and TO also took 0.19 seconds (190 milliseconds). How did I time these? Using the Stopwatch feature in my phone. You know how the song goes, you have jotted down the notes too; now time each note out and jot down the milliseconds (if you notice a 0M00S.00 format, you'll get something in 0.XY seconds, now multiply that by 1000, there you have your XY0 milliseconds!).
 
-<img src="https://res.cloudinary.com/ritikadas/image/upload/v1596314104/My_Images/ezgif-6-2042206637bd_fiyjcy.gif" align="center">
+<img src="https://res.cloudinary.com/ritikadas/image/upload/v1596314104/My_Images/ezgif-6-2042206637bd_fiyjcy.gif" align="center" height="200px">
 
 ## Almost There!
 
