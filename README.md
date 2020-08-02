@@ -79,4 +79,4 @@ Now it's time to open the file Baianá_by_Bakermat.ino in this repository (or <a
 <br>• Instead of using note names in the melody array, we could have used the frequencies of the notes instead, save for it may be cumbersome.<br>
 <br>• Encountering issues with this project is normal, but issue-solving attempts with no respite may feel like an abyss! <a href="https://github.com/Ritika-Das/Play_Music_Using_Arduino_Buzzer/issues/new">Click here</a> to cut yourself some slack, and let me know where you're stuck. You've worked your heads off at this point.<br>
 <br>• Fun fact - I've built sandcastles in the air with this project for 2+ years, and I've finally gave it a shape. If you have some ideas to improve upon the code, add something new to this project or something that you think I might have missed out on - create a <a href="https://github.com/Ritika-Das/Play_Music_Using_Arduino_Buzzer/compare">pull request here</a>. If I agree with your changes/additions, I will merge it.<br><br>
-<iframe width="725" height="453" src="https://www.tinkercad.com/embed/bhkltIIL1Fd" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
